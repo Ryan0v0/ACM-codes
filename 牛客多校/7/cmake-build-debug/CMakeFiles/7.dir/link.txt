@@ -1,0 +1,1 @@
+/usr/local/Cellar/gcc/9.1.0/bin/g++-9  -g -isysroot /Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -mmacosx-version-min=10.14 -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/7.dir/data.cpp.o CMakeFiles/7.dir/force.cpp.o  -o 7 

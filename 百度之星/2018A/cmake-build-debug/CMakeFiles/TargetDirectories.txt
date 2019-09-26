@@ -1,0 +1,3 @@
+/Users/zhaowanru/百度之星/2018A/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zhaowanru/百度之星/2018A/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhaowanru/百度之星/2018A/cmake-build-debug/CMakeFiles/2018A.dir

@@ -1,0 +1,3 @@
+/Users/zhaowanru/牛客多校/cometoj/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zhaowanru/牛客多校/cometoj/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhaowanru/牛客多校/cometoj/cmake-build-debug/CMakeFiles/cometoj.dir
