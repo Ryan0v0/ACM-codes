@@ -1,0 +1,3 @@
+/Users/zhaowanru/cf568/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zhaowanru/cf568/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhaowanru/cf568/cmake-build-debug/CMakeFiles/cf568.dir
