@@ -123,32 +123,32 @@ cfe68/fast:
 	$(MAKE) -f CMakeFiles/cfe68.dir/build.make CMakeFiles/cfe68.dir/build
 .PHONY : cfe68/fast
 
-dcmx.o: dcmx.cpp.o
+test.o: test.cpp.o
 
-.PHONY : dcmx.o
+.PHONY : test.o
 
 # target to build an object file
-dcmx.cpp.o:
-	$(MAKE) -f CMakeFiles/cfe68.dir/build.make CMakeFiles/cfe68.dir/dcmx.cpp.o
-.PHONY : dcmx.cpp.o
+test.cpp.o:
+	$(MAKE) -f CMakeFiles/cfe68.dir/build.make CMakeFiles/cfe68.dir/test.cpp.o
+.PHONY : test.cpp.o
 
-dcmx.i: dcmx.cpp.i
+test.i: test.cpp.i
 
-.PHONY : dcmx.i
+.PHONY : test.i
 
 # target to preprocess a source file
-dcmx.cpp.i:
-	$(MAKE) -f CMakeFiles/cfe68.dir/build.make CMakeFiles/cfe68.dir/dcmx.cpp.i
-.PHONY : dcmx.cpp.i
+test.cpp.i:
+	$(MAKE) -f CMakeFiles/cfe68.dir/build.make CMakeFiles/cfe68.dir/test.cpp.i
+.PHONY : test.cpp.i
 
-dcmx.s: dcmx.cpp.s
+test.s: test.cpp.s
 
-.PHONY : dcmx.s
+.PHONY : test.s
 
 # target to generate assembly for a file
-dcmx.cpp.s:
-	$(MAKE) -f CMakeFiles/cfe68.dir/build.make CMakeFiles/cfe68.dir/dcmx.cpp.s
-.PHONY : dcmx.cpp.s
+test.cpp.s:
+	$(MAKE) -f CMakeFiles/cfe68.dir/build.make CMakeFiles/cfe68.dir/test.cpp.s
+.PHONY : test.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... cfe68"
-	@echo "... dcmx.o"
-	@echo "... dcmx.i"
-	@echo "... dcmx.s"
+	@echo "... test.o"
+	@echo "... test.i"
+	@echo "... test.s"
 .PHONY : help
 
 

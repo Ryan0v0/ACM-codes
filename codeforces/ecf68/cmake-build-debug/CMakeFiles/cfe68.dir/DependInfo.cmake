@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/zhaowanru/ACM-codes/codeforces/ecf68/dcmx.cpp" "/Users/zhaowanru/ACM-codes/codeforces/ecf68/cmake-build-debug/CMakeFiles/cfe68.dir/dcmx.cpp.o"
+  "/Users/zhaowanru/ACM-codes/codeforces/ecf68/test.cpp" "/Users/zhaowanru/ACM-codes/codeforces/ecf68/cmake-build-debug/CMakeFiles/cfe68.dir/test.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

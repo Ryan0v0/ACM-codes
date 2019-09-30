@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/zhaowanru/ACM-codes/codeforces/ecf68/dcmx.cpp
-cstdio
+/Users/zhaowanru/ACM-codes/codeforces/ecf68/test.cpp
+bits/stdc++.h
 -
 

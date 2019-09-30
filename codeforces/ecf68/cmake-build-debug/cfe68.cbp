@@ -82,7 +82,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/zhaowanru/ACM-codes/codeforces/ecf68/dcmx.cpp">
+		<Unit filename="/Users/zhaowanru/ACM-codes/codeforces/ecf68/test.cpp">
 			<Option target="cfe68"/>
 		</Unit>
 		<Unit filename="/Users/zhaowanru/ACM-codes/codeforces/ecf68/CMakeLists.txt">

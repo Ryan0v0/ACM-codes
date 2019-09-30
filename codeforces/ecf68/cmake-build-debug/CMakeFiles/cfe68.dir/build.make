@@ -57,27 +57,27 @@ include CMakeFiles/cfe68.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/cfe68.dir/flags.make
 
-CMakeFiles/cfe68.dir/dcmx.cpp.o: CMakeFiles/cfe68.dir/flags.make
-CMakeFiles/cfe68.dir/dcmx.cpp.o: ../dcmx.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhaowanru/ACM-codes/codeforces/ecf68/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/cfe68.dir/dcmx.cpp.o"
-	/usr/local/Cellar/gcc/9.1.0/bin/g++-9  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cfe68.dir/dcmx.cpp.o -c /Users/zhaowanru/ACM-codes/codeforces/ecf68/dcmx.cpp
+CMakeFiles/cfe68.dir/test.cpp.o: CMakeFiles/cfe68.dir/flags.make
+CMakeFiles/cfe68.dir/test.cpp.o: ../test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhaowanru/ACM-codes/codeforces/ecf68/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/cfe68.dir/test.cpp.o"
+	/usr/local/Cellar/gcc/9.1.0/bin/g++-9  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cfe68.dir/test.cpp.o -c /Users/zhaowanru/ACM-codes/codeforces/ecf68/test.cpp
 
-CMakeFiles/cfe68.dir/dcmx.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cfe68.dir/dcmx.cpp.i"
-	/usr/local/Cellar/gcc/9.1.0/bin/g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhaowanru/ACM-codes/codeforces/ecf68/dcmx.cpp > CMakeFiles/cfe68.dir/dcmx.cpp.i
+CMakeFiles/cfe68.dir/test.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cfe68.dir/test.cpp.i"
+	/usr/local/Cellar/gcc/9.1.0/bin/g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhaowanru/ACM-codes/codeforces/ecf68/test.cpp > CMakeFiles/cfe68.dir/test.cpp.i
 
-CMakeFiles/cfe68.dir/dcmx.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cfe68.dir/dcmx.cpp.s"
-	/usr/local/Cellar/gcc/9.1.0/bin/g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhaowanru/ACM-codes/codeforces/ecf68/dcmx.cpp -o CMakeFiles/cfe68.dir/dcmx.cpp.s
+CMakeFiles/cfe68.dir/test.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cfe68.dir/test.cpp.s"
+	/usr/local/Cellar/gcc/9.1.0/bin/g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhaowanru/ACM-codes/codeforces/ecf68/test.cpp -o CMakeFiles/cfe68.dir/test.cpp.s
 
 # Object files for target cfe68
 cfe68_OBJECTS = \
-"CMakeFiles/cfe68.dir/dcmx.cpp.o"
+"CMakeFiles/cfe68.dir/test.cpp.o"
 
 # External object files for target cfe68
 cfe68_EXTERNAL_OBJECTS =
 
-cfe68: CMakeFiles/cfe68.dir/dcmx.cpp.o
+cfe68: CMakeFiles/cfe68.dir/test.cpp.o
 cfe68: CMakeFiles/cfe68.dir/build.make
 cfe68: CMakeFiles/cfe68.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/zhaowanru/ACM-codes/codeforces/ecf68/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable cfe68"

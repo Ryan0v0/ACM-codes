@@ -3,4 +3,4 @@ project(cfe68)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(cfe68  dcmx.cpp)
+add_executable(cfe68 test.cpp)

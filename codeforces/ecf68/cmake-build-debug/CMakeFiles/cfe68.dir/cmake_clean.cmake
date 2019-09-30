@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/cfe68.dir/dcmx.cpp.o"
+  "CMakeFiles/cfe68.dir/test.cpp.o"
   "cfe68.pdb"
   "cfe68"
 )
