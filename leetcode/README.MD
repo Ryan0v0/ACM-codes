@@ -25,7 +25,29 @@ Way to Google SWE Intern
 3. Swap `nums[k]` and `nums[l]`.
 4. Reverse the sub-array `nums[k + 1:]`.
 
+
+
+## Linked Lists
+
 ### 2. Add Two Numbers
 
 ~~这道题去年做过2333 今年还是不会写指针的zwr~~
+
+### 19. Remove Nth Node From End of List
+
+双指针面试经典题
+
+### 21. Merge Two Sorted Lists
+
+也算是双指针的一种，在归并排序的每层处理中用到
+
+注意最后剩余的那部分，直接tail指向当前头指针就好
+
+### 138. Copy List with Random Pointer
+
+这个题很有趣！用到的链表写法也很重要
+
+
+
+## Trees and Graphs
 
