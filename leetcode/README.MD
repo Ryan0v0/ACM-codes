@@ -51,3 +51,62 @@ Way to Google SWE Intern
 
 ## Trees and Graphs
 
+
+
+
+
+## Recursion
+
+6996
+
+6969
+
+s[i] = rev(s[n +1 - i])
+
+n -> n + 1
+
+n - 1
+
+1,1
+
+6,9
+
+8,8
+
+0,0
+
+
+
+### 208. Implement Trie (Prefix Tree)
+
+Trie树模板
+
+Trie树在Google面试中似乎考得挺多的
+
+
+
+### 17. Letter Combinations of a Phone Number
+
+![image-20200311211940728](https://tva1.sinaimg.cn/large/00831rSTly1gcqaxti3cij30x80a4n19.jpg)
+
+
+
+### 22. Generate Parentheses
+
+递归思路解括号序列问题
+
+
+
+### 351.Android Unlock Patterns
+
+对于任意两个点的坐标（x1，y1），（x2，y2），如果((x1+x2)%2==0 && (y1+y2)%2==0)，说明两点连线之间存在一个中点((x1+x2)/2, (y1+y2)/2)。如果这个中点被访问过，则这两点是可以连通的；如果中点没有被访问过，则两点不能连通。如果两点间不存在中点，则两点也是可以连通的。
+
+
+
+### 57. Insert Interval
+
+（这题竟然是hard难度？我惊了）
+
+![image-20200312005805272](/Users/zhaowanru/Library/Application Support/typora-user-images/image-20200312005805272.png)
+
+除了上图之外，还要考虑inter将newInterval完全覆盖的情况，注意输出顺序即可
