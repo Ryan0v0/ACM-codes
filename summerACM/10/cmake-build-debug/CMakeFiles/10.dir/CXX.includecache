@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhaowanru/summerACM/10/force.cpp
+stdio.h
+-
+string.h
+-
+algorithm
+-
+math.h
+-
+iostream
+-
+stdlib.h
+-
+set
+-
+map
+-
+queue
+-
+vector
+-
+bitset
+-
+

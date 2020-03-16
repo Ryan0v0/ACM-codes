@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhaowanru/ACM-codes/LanqiaoCup/10.cpp
+bits/stdc++.h
+-
+iostream
+-
+cstdio
+-
+cmath
+-
+algorithm
+-
+cstdlib
+-
+cstring
+-
+

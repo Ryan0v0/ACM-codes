@@ -3,4 +3,4 @@ project(2018)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(2018 EE.cpp)
+add_executable(2018 cC.cpp)

@@ -1,0 +1,3 @@
+/Users/zhaowanru/ACM-codes/codejam/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zhaowanru/ACM-codes/codejam/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhaowanru/ACM-codes/codejam/cmake-build-debug/CMakeFiles/codejam.dir

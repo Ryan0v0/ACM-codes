@@ -57,27 +57,27 @@ include CMakeFiles/2018.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/2018.dir/flags.make
 
-CMakeFiles/2018.dir/EE.cpp.o: CMakeFiles/2018.dir/flags.make
-CMakeFiles/2018.dir/EE.cpp.o: ../EE.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhaowanru/ACM-codes/ccpc/重现赛/2018吉林/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/2018.dir/EE.cpp.o"
-	/usr/local/Cellar/gcc/9.1.0/bin/g++-9  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/2018.dir/EE.cpp.o -c /Users/zhaowanru/ACM-codes/ccpc/重现赛/2018吉林/EE.cpp
+CMakeFiles/2018.dir/cC.cpp.o: CMakeFiles/2018.dir/flags.make
+CMakeFiles/2018.dir/cC.cpp.o: ../cC.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhaowanru/ACM-codes/ccpc/重现赛/2018吉林/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/2018.dir/cC.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/clang++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/2018.dir/cC.cpp.o -c /Users/zhaowanru/ACM-codes/ccpc/重现赛/2018吉林/cC.cpp
 
-CMakeFiles/2018.dir/EE.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/2018.dir/EE.cpp.i"
-	/usr/local/Cellar/gcc/9.1.0/bin/g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhaowanru/ACM-codes/ccpc/重现赛/2018吉林/EE.cpp > CMakeFiles/2018.dir/EE.cpp.i
+CMakeFiles/2018.dir/cC.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/2018.dir/cC.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhaowanru/ACM-codes/ccpc/重现赛/2018吉林/cC.cpp > CMakeFiles/2018.dir/cC.cpp.i
 
-CMakeFiles/2018.dir/EE.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/2018.dir/EE.cpp.s"
-	/usr/local/Cellar/gcc/9.1.0/bin/g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhaowanru/ACM-codes/ccpc/重现赛/2018吉林/EE.cpp -o CMakeFiles/2018.dir/EE.cpp.s
+CMakeFiles/2018.dir/cC.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/2018.dir/cC.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhaowanru/ACM-codes/ccpc/重现赛/2018吉林/cC.cpp -o CMakeFiles/2018.dir/cC.cpp.s
 
 # Object files for target 2018
 2018_OBJECTS = \
-"CMakeFiles/2018.dir/EE.cpp.o"
+"CMakeFiles/2018.dir/cC.cpp.o"
 
 # External object files for target 2018
 2018_EXTERNAL_OBJECTS =
 
-2018: CMakeFiles/2018.dir/EE.cpp.o
+2018: CMakeFiles/2018.dir/cC.cpp.o
 2018: CMakeFiles/2018.dir/build.make
 2018: CMakeFiles/2018.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/zhaowanru/ACM-codes/ccpc/重现赛/2018吉林/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 2018"

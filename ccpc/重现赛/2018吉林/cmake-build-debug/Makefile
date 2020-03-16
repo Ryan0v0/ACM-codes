@@ -123,32 +123,32 @@ depend:
 	$(MAKE) -f CMakeFiles/2018.dir/build.make CMakeFiles/2018.dir/build
 .PHONY : 2018/fast
 
-EE.o: EE.cpp.o
+cC.o: cC.cpp.o
 
-.PHONY : EE.o
+.PHONY : cC.o
 
 # target to build an object file
-EE.cpp.o:
-	$(MAKE) -f CMakeFiles/2018.dir/build.make CMakeFiles/2018.dir/EE.cpp.o
-.PHONY : EE.cpp.o
+cC.cpp.o:
+	$(MAKE) -f CMakeFiles/2018.dir/build.make CMakeFiles/2018.dir/cC.cpp.o
+.PHONY : cC.cpp.o
 
-EE.i: EE.cpp.i
+cC.i: cC.cpp.i
 
-.PHONY : EE.i
+.PHONY : cC.i
 
 # target to preprocess a source file
-EE.cpp.i:
-	$(MAKE) -f CMakeFiles/2018.dir/build.make CMakeFiles/2018.dir/EE.cpp.i
-.PHONY : EE.cpp.i
+cC.cpp.i:
+	$(MAKE) -f CMakeFiles/2018.dir/build.make CMakeFiles/2018.dir/cC.cpp.i
+.PHONY : cC.cpp.i
 
-EE.s: EE.cpp.s
+cC.s: cC.cpp.s
 
-.PHONY : EE.s
+.PHONY : cC.s
 
 # target to generate assembly for a file
-EE.cpp.s:
-	$(MAKE) -f CMakeFiles/2018.dir/build.make CMakeFiles/2018.dir/EE.cpp.s
-.PHONY : EE.cpp.s
+cC.cpp.s:
+	$(MAKE) -f CMakeFiles/2018.dir/build.make CMakeFiles/2018.dir/cC.cpp.s
+.PHONY : cC.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... 2018"
-	@echo "... EE.o"
-	@echo "... EE.i"
-	@echo "... EE.s"
+	@echo "... cC.o"
+	@echo "... cC.i"
+	@echo "... cC.s"
 .PHONY : help
 
 

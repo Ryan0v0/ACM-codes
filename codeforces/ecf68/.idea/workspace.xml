@@ -12,41 +12,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1f77710-1a23-43f0-9eb1-8df7a8317908" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/.idea/2018吉林.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/AA.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/BB.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/CC.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/DD.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/EE.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/I.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/II.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/d.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AA.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Car.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DD.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DD1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/F.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/J.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ddforce.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/1A.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/1B.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/1I.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/AAA.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/B.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/BBB.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/B_2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/EEE.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/tmp.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../icpc/重现赛/2018沈阳/.idea/2018沈阳.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../icpc/重现赛/2018沈阳/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../icpc/重现赛/2018沈阳/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../icpc/重现赛/2018沈阳/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../icpc/重现赛/2018沈阳/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../icpc/重现赛/2018沈阳/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../icpc/重现赛/2018沈阳/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/cmake-build-debug/2018" beforeDir="false" afterPath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/cmake-build-debug/2018" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/cmake-build-debug/2018.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/cmake-build-debug/2018.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/cmake-build-debug/CMakeFiles/2018.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/cmake-build-debug/CMakeFiles/2018.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/cmake-build-debug/CMakeFiles/2018.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/cmake-build-debug/CMakeFiles/2018.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/cmake-build-debug/CMakeFiles/2018.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/cmake-build-debug/CMakeFiles/2018.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/cmake-build-debug/CMakeFiles/2018.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/cmake-build-debug/CMakeFiles/2018.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/cmake-build-debug/CMakeFiles/2018.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/cmake-build-debug/CMakeFiles/2018.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/cmake-build-debug/CMakeFiles/2018.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/cmake-build-debug/CMakeFiles/2018.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/cmake-build-debug/CMakeFiles/2018.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/cmake-build-debug/CMakeFiles/2018.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../ccpc/重现赛/2018吉林/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cfe68.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cfe68.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cfe68.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cfe68.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cfe68.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cfe68.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cfe68.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cfe68.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cfe68.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cfe68.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cfe68.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cfe68.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cfe68.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cfe68.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cfe68" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cfe68" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cfe68.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cfe68.cbp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -100,8 +94,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+            <state relative-caret-position="57">
+              <caret line="3" selection-start-line="3" selection-end-line="16" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -179,9 +173,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="59" />
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="863" />
+    <option name="y" value="218" />
     <option name="width" value="1055" />
     <option name="height" value="952" />
   </component>
@@ -252,23 +246,23 @@
       <workItem from="1563513114479" duration="802000" />
       <workItem from="1563894034334" duration="385000" />
       <workItem from="1563979172571" duration="2663000" />
-      <workItem from="1569511359743" duration="17421000" />
+      <workItem from="1569511359743" duration="17950000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32399000" />
+    <option name="totallyTimeSpent" value="32928000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="59" y="23" width="1055" height="952" extended-state="1" />
+    <frame x="863" y="218" width="1055" height="952" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19052319" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19052319" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32906976" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32906976" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -408,8 +402,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>
